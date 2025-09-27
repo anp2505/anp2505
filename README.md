@@ -4,7 +4,7 @@
 
 ###
 
-<br clear="both">
+
 
 <h1 align="center">Hi there! I'm Phuoc An</h1>
 
@@ -34,10 +34,19 @@
 
 ###
 
-<p align="right">I'm a code whisperer from the land of coffee and late-night debugging.<br><br>Data engineer, taming stubborn pipelines.<br>Learning to make Python & SQL harmonize with Spark.<br>Turning messy data into art, arguing with algorithms, and teaching my cat ML.</p>
+
+<body>
+  <p align="right" class="bio-text">
+    I'm a code whisperer from the land of coffee and late-night debugging.<br><br>
+    <strong>Data engineer</strong>, taming stubborn pipelines.<br>
+    Learning to make Python & SQL harmonize with Spark.<br>
+    Turning messy data into art, arguing with algorithms, and teaching my cat ML.
+  </p>
+</body>
+
 
 ###
-<p>-----</p>
+<br clear="both">
 <h3 align="center">LANGUAGE AND TOOLS</h3>
 
 ###
