@@ -34,7 +34,7 @@
 
 ###
 
-<p align="left">I'm a code whisperer from the land of coffee and late-night debugging.<br><br>Data engineer, taming stubborn pipelines.<br>Learning to make Python & SQL harmonize with Spark.<br>Turning messy data into art, arguing with algorithms, and teaching my cat ML.</p>
+<p align="right">I'm a code whisperer from the land of coffee and late-night debugging.<br><br>Data engineer, taming stubborn pipelines.<br>Learning to make Python & SQL harmonize with Spark.<br>Turning messy data into art, arguing with algorithms, and teaching my cat ML.</p>
 
 ###
 <p>-----</p>
