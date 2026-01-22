@@ -72,12 +72,10 @@
 <h3 align="center">🔥   My Stats :</h3>
 
 ###
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=anp2505&theme=dark)
 
-
-<!-- <div align="center">
+<div align="center">
   <img src="https://streak-stats.demolab.com?user=anp2505&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
-</div> -->
+</div>
 
 ###
 
