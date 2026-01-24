@@ -37,10 +37,11 @@
 
 <body>
   <p align="right" class="bio-text">
-    I'm a code whisperer from the land of coffee and late-night debugging.<br><br>
-    <strong>Data engineer</strong>, taming stubborn pipelines.<br>
-    Learning to make Python & SQL harmonize with Spark.<br>
-    Turning messy data into art, arguing with algorithms, and teaching my cat ML.
+    I'm a numbers-and-stories translator from the land of coffee and deadline-driven meetings.<br><br>
+    Analyzing data, processes, and requirements to support better decisions.<br>
+    Working with SQL, Excel, and BI tools to uncover trends and insights.<br>
+    Translating business questions into data-driven answers.<br>
+    Turning complex numbers into clear stories, and helping teams move from intuition to evidence.
   </p>
 </body>
 
